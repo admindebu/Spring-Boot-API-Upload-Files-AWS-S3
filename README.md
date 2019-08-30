@@ -1,8 +1,12 @@
 # Spring-Boot-API-Upload-Files-AWS-S3
 This is a simple Spring Boot restful API for upload and delete files to AWS S3 bucket
-
+# download the zip file and extract it and import as a existing maven project in Eclipse or InteliJ
 # Upload (POST) API : http://localhost:8080/v1/storage/uploadFile   
 # Delete (Delete) API : http://localhost:8080/v1/storage/deleteFile
+
+# Required Software 
+1. Java 8 with JCE unlimited security Jar
+2. Maven 
 
 # Step 
 1. Create AWS account
